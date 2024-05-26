@@ -2,7 +2,7 @@ name: Run Python Script and Generate M3U Files
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Run every hour
+    - cron: '0 */6 * * *'  # Run every 6 hours
   workflow_dispatch:  # Trigger manually
 
 jobs:
@@ -31,15 +31,12 @@ jobs:
       run: |
         if [ -f ns_player.m3u ] && [ -f ott_nav.m3u ]; then
           echo "M3U files found. Committing changes."
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add ns_player.m3u ott_nav.m3u
+          git commit -m "M3U files updated by bot 🤖"
+          git push
         else
           echo "M3U files not found. Skipping commit."
           exit 1
         fi
-
-    - name: Commit and push changes
-      run: |
-        git config --global user.email "github-actions@github.com"
-        git config --global user.name "GitHub Actions"
-        git add ns_player.m3u ott_nav.m3u
-        git commit -m "M3U files updated by bot 🤖"
-        git push
