@@ -1,0 +1,45 @@
+name: Run Python Script and Generate M3U Files
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Run every hour
+  workflow_dispatch:  # Trigger manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Run autorun script
+      env:
+        NS_PLAYER_URL: ${{ secrets.NS_PLAYER_URL }}
+        OTT_NAV_URL: ${{ secrets.OTT_NAV_URL }}
+      run: python main.py
+
+    - name: Check if M3U files exist
+      run: |
+        if [ -f ns_player.m3u ] && [ -f ott_nav.m3u ]; then
+          echo "M3U files found. Committing changes."
+        else
+          echo "M3U files not found. Skipping commit."
+          exit 1
+        fi
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.email "github-actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git add ns_player.m3u ott_nav.m3u
+        git commit -m "M3U files updated by bot 🤖"
+        git push
