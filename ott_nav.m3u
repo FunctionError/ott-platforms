@@ -4,25 +4,25 @@
 # API from byte-capsule
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/300100/logo/240x240/mobile_logo_896740001718890173.png", COPA America Live-1 VIP
 #EXTVLCOPT:http-user-agent=
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1720339617:KeyName=prod_live_events:Signature=1B6Zxie16WM7gFMSmsh4ouqc3OQa7UpaCaVBU7XRLP3vzJtjAPOXdyVNM63eH_vF3z3GVD28mZARUWrLcKZZDw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1720362560:KeyName=prod_live_events:Signature=Lh-gMr9PWqu6eSoBEpYOR8nakRZCC1JLfwx9g3g4Ylwf36glcsIBxPo6iy7etkop6bl6d54V84P4ESzVc5l9AA"}
 https://mprod-cdn.toffeelive.com/live/match-4/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T Sports Live 01
 #EXTVLCOPT:http-user-agent=
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1720341035:KeyName=tsports-ed25519-01:Signature=9LqdyWfp4XU-h3abVVCf0h8ERgY2COg8cZuBaHdzJG61j5m0iMRm4Y8xvQD9XCzUotlSSsVussqA7XdYiBp9BA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1720387357:KeyName=tsports-ed25519-01:Signature=TnWxJ4ckK3ny47u9C8b1Zp_Lq4BCGRaYoI97mowgpe9pnbq9kovPe3uBlwOm0jjEmI3wCE-pUy0bIZU2-vSJAQ"}
 https://live-cdn.tsports.com/live-01/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg", T Sports Live 02
 #EXTVLCOPT:http-user-agent=
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1720341035:KeyName=tsports-ed25519-01:Signature=9LqdyWfp4XU-h3abVVCf0h8ERgY2COg8cZuBaHdzJG61j5m0iMRm4Y8xvQD9XCzUotlSSsVussqA7XdYiBp9BA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1720387357:KeyName=tsports-ed25519-01:Signature=TnWxJ4ckK3ny47u9C8b1Zp_Lq4BCGRaYoI97mowgpe9pnbq9kovPe3uBlwOm0jjEmI3wCE-pUy0bIZU2-vSJAQ"}
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png", TOFFEE Dramas VIP
 #EXTVLCOPT:http-user-agent=
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1720461718:KeyName=prod_linear:Signature=B6zKoGow3RvlLADOpgar2vdf8KKWBFMrLhqAlW1CvaY_wFSu8Be2GoZT81W_lIeC9J5J87l5IMi8lTKekCRKAQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1720485007:KeyName=prod_linear:Signature=V9yXZLLpIoC4j3DZpjk9j_ulzTBmirJXFU8W1C9zvA7T8AFd-lddRMHQqPzXDiYj19LtPMun5-005qWZqKsdBg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png", TOFFEE Movies VIP
 #EXTVLCOPT:http-user-agent=
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1720461718:KeyName=prod_linear:Signature=B6zKoGow3RvlLADOpgar2vdf8KKWBFMrLhqAlW1CvaY_wFSu8Be2GoZT81W_lIeC9J5J87l5IMi8lTKekCRKAQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1720485007:KeyName=prod_linear:Signature=V9yXZLLpIoC4j3DZpjk9j_ulzTBmirJXFU8W1C9zvA7T8AFd-lddRMHQqPzXDiYj19LtPMun5-005qWZqKsdBg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png", TOFFEE Sports VIP
 #EXTVLCOPT:http-user-agent=
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1720461718:KeyName=prod_linear:Signature=B6zKoGow3RvlLADOpgar2vdf8KKWBFMrLhqAlW1CvaY_wFSu8Be2GoZT81W_lIeC9J5J87l5IMi8lTKekCRKAQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1720485007:KeyName=prod_linear:Signature=V9yXZLLpIoC4j3DZpjk9j_ulzTBmirJXFU8W1C9zvA7T8AFd-lddRMHQqPzXDiYj19LtPMun5-005qWZqKsdBg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
