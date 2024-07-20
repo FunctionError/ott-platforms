@@ -8,7 +8,7 @@
     "origin": "live-cdn.tsports.com",
     "referrer": "PiratesTV",
     "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1721510183:KeyName=tsports-ed25519-01:Signature=tqjGIDgCVCiEmKXRk0WXX8Mo_8laJWbcEVwsPcgzg7L9-PZV3iiQH7LFzLpOf-Ml3dlF1VkNC_QqFuhLlqmGBg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1721550675:KeyName=tsports-ed25519-01:Signature=tfs87KbJzip0cH1fk7p9VwOR1g5sg0mXrsbfGqpnCTOMdByfRRz1WajXbGyPAqgjG-xk_f7Ry0rCMdP6J9ajBQ",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -19,7 +19,7 @@
     "origin": "live-cdn.tsports.com",
     "referrer": "PiratesTV",
     "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1721510183:KeyName=tsports-ed25519-01:Signature=tqjGIDgCVCiEmKXRk0WXX8Mo_8laJWbcEVwsPcgzg7L9-PZV3iiQH7LFzLpOf-Ml3dlF1VkNC_QqFuhLlqmGBg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1721550675:KeyName=tsports-ed25519-01:Signature=tfs87KbJzip0cH1fk7p9VwOR1g5sg0mXrsbfGqpnCTOMdByfRRz1WajXbGyPAqgjG-xk_f7Ry0rCMdP6J9ajBQ",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -30,7 +30,7 @@
     "origin": "bldcmprod-cdn.toffeelive.com",
     "referrer": "PiratesTV",
     "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1721628641:KeyName=prod_linear:Signature=JFaWolm6hNDkWS_U61DZ-JKoH4MvlN9OSnRAtBErlWvWPhjRDx-Km0nzfiRhlo7bMaE5ux0T0uu8qVxO8wvWBQ",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1721649951:KeyName=prod_linear:Signature=MI_Km17J706zI1NRdkqF7Ti9Juf8JEUA9PLf8Je-IRwBchb5H5iefMSorlzhbvjVwr6nyl79GS7L9tasYJLoBQ",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -41,7 +41,7 @@
     "origin": "bldcmprod-cdn.toffeelive.com",
     "referrer": "PiratesTV",
     "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1721628641:KeyName=prod_linear:Signature=JFaWolm6hNDkWS_U61DZ-JKoH4MvlN9OSnRAtBErlWvWPhjRDx-Km0nzfiRhlo7bMaE5ux0T0uu8qVxO8wvWBQ",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1721649951:KeyName=prod_linear:Signature=MI_Km17J706zI1NRdkqF7Ti9Juf8JEUA9PLf8Je-IRwBchb5H5iefMSorlzhbvjVwr6nyl79GS7L9tasYJLoBQ",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -52,7 +52,7 @@
     "origin": "bldcmprod-cdn.toffeelive.com",
     "referrer": "PiratesTV",
     "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1721628641:KeyName=prod_linear:Signature=JFaWolm6hNDkWS_U61DZ-JKoH4MvlN9OSnRAtBErlWvWPhjRDx-Km0nzfiRhlo7bMaE5ux0T0uu8qVxO8wvWBQ",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1721649951:KeyName=prod_linear:Signature=MI_Km17J706zI1NRdkqF7Ti9Juf8JEUA9PLf8Je-IRwBchb5H5iefMSorlzhbvjVwr6nyl79GS7L9tasYJLoBQ",
     "drmScheme": "",
     "drmLicense": ""
   }
