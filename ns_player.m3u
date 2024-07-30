@@ -2,24 +2,24 @@
 # API from byte-capsule
 [
   {
-    "name": "B4U Movies",
+    "name": "B4U Movies VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png",
     "origin": "bldcmprod-cdn.toffeelive.com",
     "referrer": "PiratesTV",
     "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1722492354:KeyName=prod_linear:Signature=Kz0vfj7iRcEGqEKHeafkUX9hP0_2zHQogELV0JQszkeIzS2J69V0797RUSv1wIsg7Upq3qyS6ZCXMaJwgwAuBA",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1722514050:KeyName=prod_linear:Signature=prYB8gpzV41iO8w5FJSQ8DJ-hZEHYDJsm8CqHS-2Nx4E5Y2ScqEcHd5RzMaKKJhFB1LadjayhoEadQJBMfg6CQ",
     "drmScheme": "",
     "drmLicense": ""
   },
   {
-    "name": "B4U Music",
+    "name": "B4U Music VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4umusic/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",
     "origin": "bldcmprod-cdn.toffeelive.com",
     "referrer": "PiratesTV",
     "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1722492354:KeyName=prod_linear:Signature=Kz0vfj7iRcEGqEKHeafkUX9hP0_2zHQogELV0JQszkeIzS2J69V0797RUSv1wIsg7Upq3qyS6ZCXMaJwgwAuBA",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1722514050:KeyName=prod_linear:Signature=prYB8gpzV41iO8w5FJSQ8DJ-hZEHYDJsm8CqHS-2Nx4E5Y2ScqEcHd5RzMaKKJhFB1LadjayhoEadQJBMfg6CQ",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -30,7 +30,7 @@
     "origin": "live-cdn.tsports.com",
     "referrer": "PiratesTV",
     "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1722374330:KeyName=tsports-ed25519-01:Signature=mjS51UQaUumF0uPTxY73eh47Lmm7ZDHFgPH3_5uwFARWEcYSXG3R3wVsWThHSyfIlK5eQAhFCl_OGFWH7Cj-Aw",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1722414854:KeyName=tsports-ed25519-01:Signature=6K-RNyr7_QehZNB14eUzUd0upoLglcY63Lo4PscFBH_X0xesw5-S1CK9wJrQRBygLNDOuXnXEdP649gevZocAw",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -41,7 +41,7 @@
     "origin": "live-cdn.tsports.com",
     "referrer": "PiratesTV",
     "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1722374330:KeyName=tsports-ed25519-01:Signature=mjS51UQaUumF0uPTxY73eh47Lmm7ZDHFgPH3_5uwFARWEcYSXG3R3wVsWThHSyfIlK5eQAhFCl_OGFWH7Cj-Aw",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1722414854:KeyName=tsports-ed25519-01:Signature=6K-RNyr7_QehZNB14eUzUd0upoLglcY63Lo4PscFBH_X0xesw5-S1CK9wJrQRBygLNDOuXnXEdP649gevZocAw",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -52,7 +52,7 @@
     "origin": "bldcmprod-cdn.toffeelive.com",
     "referrer": "PiratesTV",
     "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1722492354:KeyName=prod_linear:Signature=Kz0vfj7iRcEGqEKHeafkUX9hP0_2zHQogELV0JQszkeIzS2J69V0797RUSv1wIsg7Upq3qyS6ZCXMaJwgwAuBA",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1722514050:KeyName=prod_linear:Signature=prYB8gpzV41iO8w5FJSQ8DJ-hZEHYDJsm8CqHS-2Nx4E5Y2ScqEcHd5RzMaKKJhFB1LadjayhoEadQJBMfg6CQ",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -63,7 +63,7 @@
     "origin": "bldcmprod-cdn.toffeelive.com",
     "referrer": "PiratesTV",
     "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1722492354:KeyName=prod_linear:Signature=Kz0vfj7iRcEGqEKHeafkUX9hP0_2zHQogELV0JQszkeIzS2J69V0797RUSv1wIsg7Upq3qyS6ZCXMaJwgwAuBA",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1722514050:KeyName=prod_linear:Signature=prYB8gpzV41iO8w5FJSQ8DJ-hZEHYDJsm8CqHS-2Nx4E5Y2ScqEcHd5RzMaKKJhFB1LadjayhoEadQJBMfg6CQ",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -74,7 +74,29 @@
     "origin": "bldcmprod-cdn.toffeelive.com",
     "referrer": "PiratesTV",
     "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1722492354:KeyName=prod_linear:Signature=Kz0vfj7iRcEGqEKHeafkUX9hP0_2zHQogELV0JQszkeIzS2J69V0797RUSv1wIsg7Upq3qyS6ZCXMaJwgwAuBA",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1722514050:KeyName=prod_linear:Signature=prYB8gpzV41iO8w5FJSQ8DJ-hZEHYDJsm8CqHS-2Nx4E5Y2ScqEcHd5RzMaKKJhFB1LadjayhoEadQJBMfg6CQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Zee Bangla Cinema VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1722514050:KeyName=prod_linear:Signature=prYB8gpzV41iO8w5FJSQ8DJ-hZEHYDJsm8CqHS-2Nx4E5Y2ScqEcHd5RzMaKKJhFB1LadjayhoEadQJBMfg6CQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Zee Bangla VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1722514050:KeyName=prod_linear:Signature=prYB8gpzV41iO8w5FJSQ8DJ-hZEHYDJsm8CqHS-2Nx4E5Y2ScqEcHd5RzMaKKJhFB1LadjayhoEadQJBMfg6CQ",
     "drmScheme": "",
     "drmLicense": ""
   }
