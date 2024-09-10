@@ -35,7 +35,7 @@ Welcome to PiratesTV! Follow the instructions below to get the best experience u
      ```
    - Playlist link for Ott Navigator: 👇
      ```
-     https://raw.githubusercontent.com/FunctionError/ott-platforms/main/ott_nav.m3u
+     https://raw.githubusercontent.com/starflixhd/ott-platforms/main/ott_nav.m3u
      ```
 
 2. **App Setup:**
