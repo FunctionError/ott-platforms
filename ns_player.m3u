@@ -420,6 +420,17 @@
     "drmLicense": ""
   },
   {
+    "name": "T Sports Live 02",
+    "link": "https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8",
+    "logo": "https://image.tsports.com/images/mobile_thumbnail/1750064430-LIVE.jpg",
+    "origin": "live.tsports.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
     "name": "TLC",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_sd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png",
