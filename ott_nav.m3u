@@ -85,11 +85,11 @@ https://myblmprod-cdn.toffeelive.com/live/match-1/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1750066241-1280.jpg", Live | Bangladesh vs Sri Lanka
 #EXTVLCOPT:http-user-agent=
 #EXTHTTP:{"cookie":""}
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+https://cdn-staging.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1750064430-LIVE.jpg", Live | Global Super League
 #EXTVLCOPT:http-user-agent=
 #EXTHTTP:{"cookie":""}
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+https://cdn-staging.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png", Pogo
 #EXTVLCOPT:http-user-agent=
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750297799:KeyName=prod_linear:Signature=TDBMq5Xc03aTvlgHIbGzOJRfXo1Ci6MBkMVPtER7RMKYwBr6xRLqsXpDCYdHaDC_ojg5k5EC7ww-uWB62kirBg"}
