@@ -68,6 +68,17 @@
     "drmLicense": ""
   },
   {
+    "name": "Bangladesh vs Pakistan",
+    "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8",
+    "logo": "https://image.tsports.com/images/mobile_thumbnail/1752684901-LIVE.jpg",
+    "origin": "live.tsports.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
     "name": "Cartoon Network",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png",
@@ -218,17 +229,6 @@
     "referrer": "PiratesTV",
     "userAgent": "",
     "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9teWJsbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750175633:KeyName=prod_live_mybl:Signature=_u7Y0LwyKuQbnCOmep0wH4yGVqR0RnFd61eKZInK93bMHQXnxmkdBY48ealwcLluItG0_ZqWxRIv96dN1MEYCg",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "Live | Global Super League",
-    "link": "https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8",
-    "logo": "https://image.tsports.com/images/mobile_thumbnail/1750064430-LIVE.jpg",
-    "origin": "live.tsports.com",
-    "referrer": "PiratesTV",
-    "userAgent": "",
-    "cookie": "",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -416,17 +416,6 @@
     "referrer": "PiratesTV",
     "userAgent": "",
     "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750297799:KeyName=prod_linear:Signature=TDBMq5Xc03aTvlgHIbGzOJRfXo1Ci6MBkMVPtER7RMKYwBr6xRLqsXpDCYdHaDC_ojg5k5EC7ww-uWB62kirBg",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "T Sports Live 01",
-    "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8",
-    "logo": "https://image.tsports.com/images/mobile_thumbnail/1752684901-LIVE.jpg",
-    "origin": "live.tsports.com",
-    "referrer": "PiratesTV",
-    "userAgent": "",
-    "cookie": "",
     "drmScheme": "",
     "drmLicense": ""
   },
